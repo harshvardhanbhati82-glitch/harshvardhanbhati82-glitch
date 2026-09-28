@@ -50,7 +50,7 @@ An AI/agent-focused project exploring safer and more reliable agentic systems.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Harshvardhan Bhati](YOUR_LINKEDIN_URL)
+- LinkedIn: [Harshvardhan Bhati](https://www.linkedin.com/in/harshvardhan-bhati-a1b481383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
