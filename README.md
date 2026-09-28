@@ -2,55 +2,66 @@
 
 ### CSE Student | AI & Agentic AI | Full-Stack Developer
 
-I build practical AI-powered applications, intelligent systems, and full-stack projects.
+I build practical AI-powered applications, agentic systems,
+and full-stack products.
 
-## 🚀 What I Build
+---
 
-- 🤖 AI & Agentic AI applications
-- 🧠 LLM-powered systems
-- 🌐 Full-stack web applications
-- ⚡ Hackathon projects & prototypes
+## 🚀 Featured Projects
+
+### 🛡️ AgentGuard
+AI agent evaluation and reliability testing engine.
+
+**Focus:** Agent evaluation • Tool-calling workflows • Reliability
+
+### 🏥 HealthOS-AI
+AI-powered district healthcare operating system.
+
+**Focus:** AI applications • Dashboards • Data-driven workflows
+
+### 🔍 AI Architecture Review
+AI-powered software architecture analysis platform.
+
+**Focus:** Architecture analysis • Security • Scalability • AI
+
+---
+
+## 🧠 Currently Exploring
+
+- Agentic AI
+- LLM applications
+- Tool orchestration
+- AI reliability
+- Full-stack systems
+
+---
 
 ## 🛠️ Technologies
 
 **AI / Backend**
-- Python
-- FastAPI
-- AI/LLM APIs
+Python • Node.js • Express • FastAPI • Gemini API
 
 **Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
+React • TypeScript • JavaScript • Vite
 
 **Tools**
-- Git
-- GitHub
-- REST APIs
+Git • GitHub • REST APIs
 
-## 📌 Featured Projects
+---
 
-### 🏥 HealthOS-AI
-AI-powered District Health Operating System built for a hackathon.
+## 🏆 Hackathons
 
-### 🔍 AI Architecture Review
-An AI-powered architecture review system with a frontend and backend.
+Building practical AI systems through hackathons
+and rapid product development.
 
-### 🛡️ AgentGuard
-An AI/agent-focused project exploring safer and more reliable agentic systems.
+Currently building **DukaanAgent — The Autonomous Retail Guard**
+with **TEAM NEXORA** for HACKPULSE Jaipur 2026.
 
-## 🎯 Currently Exploring
+---
 
-- Agentic AI
-- LLM applications
-- AI tool orchestration
-- Intelligent automation
-- Scalable full-stack systems
+## 🤝 Connect
 
-## 🤝 Connect With Me
-
-- LinkedIn: [Harshvardhan Bhati](https://www.linkedin.com/in/harshvardhan-bhati-a1b481383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[LinkedIn](https://www.linkedin.com/in/harshvardhan-bhati-a1b481383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
